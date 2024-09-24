@@ -16,8 +16,8 @@
 1. Склонируйте репозиторий:
 
    ```bash
-   git clone <URL вашего репозитория>
-   cd <имя папки>
+   git clone https://github.com/krr006/Record-Management-API.git
+   cd Record-Management-API
 
 2. Соберите проект с помощью Maven:
     ```bash
